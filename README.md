@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Arpit shrivastava</h1>
-<h3 align="center">A passionate frontend developer from Indore Madhya Pradesh</h3>
+<h3 align="center">A passionate fullstack developer from Indore Madhya Pradesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitshrivastavaaa&label=Profile%20views&color=0e75b6&style=flat" alt="arpitshrivastavaaa" /> </p>
 
-- 🌱 I’m currently learning **React.js, JavaScript**
+- 🌱 I’m currently learning **Node.js,React.js, JavaScript**
 
 - 📫 How to reach me **arpit2137@gmail.com**
 
